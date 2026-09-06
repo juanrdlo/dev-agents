@@ -1,0 +1,17 @@
+{
+  "name": "@juanrdlo/dev-agents",
+  "version": "1.0.1",
+  "description": "Rafa AI development rules and skills",
+  "type": "module",
+  "bin": {
+    "rafa-agents": "./bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "templates",
+    "skills"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
