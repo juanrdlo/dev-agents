@@ -198,3 +198,24 @@ Application layer → camelCase
 ```
 
 El Controller es el único responsable de la transformación.
+
+---
+
+## 10. Nomenclatura de carpetas y rutas internas
+
+Los nombres técnicos del proyecto deben escribirse en inglés. Esta regla aplica a:
+
+- Carpetas
+- Rutas internas del router
+- Nombres de módulos y archivos nuevos
+- Identificadores de código
+
+Las carpetas y rutas internas deben usar minúsculas y `kebab-case` cuando haya más de una palabra.
+
+```text
+pages/manager/machines/
+pages/manager/collections/
+/manager/machines/:id
+```
+
+Los textos visibles para usuarios pueden permanecer en español cuando correspondan al idioma de la interfaz. No deben usarse como nombres de carpetas, rutas, módulos ni identificadores.

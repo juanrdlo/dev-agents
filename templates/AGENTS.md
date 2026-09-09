@@ -45,6 +45,13 @@ Nunca:
 - Controller → Firebase
 - Service → Pinia
 
+## Nomenclatura obligatoria
+
+- Los nombres técnicos de carpetas, rutas internas, módulos, archivos e identificadores deben estar en inglés.
+- Las carpetas y rutas internas usan minúsculas y `kebab-case` para nombres compuestos.
+- Los textos visibles pueden estar en español cuando correspondan al idioma de la interfaz; no deben usarse como nombres técnicos.
+- La guía detallada está en `docs/CONVENTIONS.md`.
+
 ---
 
 ## Documentación
