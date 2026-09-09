@@ -1,6 +1,6 @@
 {
   "name": "@juanrdlo/dev-agents",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Rafa AI development rules and skills",
   "type": "module",
   "bin": {
